@@ -1,4 +1,4 @@
-package org.james;
+package org.james.MethodFactory;
 import java.awt.*;
 public abstract class Figuras {
 

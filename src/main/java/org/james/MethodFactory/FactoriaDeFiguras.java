@@ -1,4 +1,4 @@
-package org.james;
+package org.james.MethodFactory;
 
 public class FactoriaDeFiguras {
 
