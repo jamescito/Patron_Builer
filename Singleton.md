@@ -13,8 +13,8 @@ Lo primero es una clase que se llama comercial, esta la utilizamos para construi
 
 La clase DocumentacionEnBlanco nos permitera que el constructor sea privado para poder conseguir que sea inacccesible desde fuera de la clase para poder tener el control de la instanciacion, en palabraas sencillas bloquea que desde afuera de la clase puedan instanciarla.
 
-![Imagen](image\tStres.png)
+![Imagen](image/tStres.png)
 
 
 Por ultimo la clase TesComercial es para instanciar la clase pasar lo que necesita en este caso nombre. correo y direccion, luego podemos ver el resultado de ella 
-![Imagen](image\Scuatro.png)
+![Imagen](image/Scuatro.png)
