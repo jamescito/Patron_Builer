@@ -16,5 +16,8 @@ La clase DocumentacionEnBlanco nos permitera que el constructor sea privado para
 ![Imagen](image/tStres.png)
 
 
-Por ultimo la clase TesComercial es para instanciar la clase pasar lo que necesita en este caso nombre. correo y direccion, luego podemos ver el resultado de ella 
+Por ultimo la clase TesComercial es para instanciar la clase pasar </br>
+lo que necesita en este caso nombre. correo y direccion, luego podemos ver el resultado de ella 
+
+
 ![Imagen](image/Scuatro.png)

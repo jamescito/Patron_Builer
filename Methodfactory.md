@@ -20,9 +20,9 @@ métodos de forma obligatoria es decir definir el comportamiento como se va area
 
 Este clase Cuadrado al igual que la clase de circulo hereda desde la clase figura, implementando todos sus métodos de forma obligatoria, definimos el comportamiento como se va arealizar en este caso como vamos a calcular el area de un cuadrado.
 
-![Primera imagen](image/tre.png)
+![Primera imagen](image/tres.png)
 
-La clase Factoria de figura en esta se declaran dos variables una cuadrado y la circulo para poder usarla en la función y poder hacer lo que es la validación al momento que se haga la ejecución del programa es decir cuando el usuario seleccione la primera opcion pueda trabajar solo con esa opcion en caso que no sea asi pues sera la otra.
+La clase Factoria de figura en esta se declaran dos variables una cuadrado y</br> la circulo para poder usarla en la función y poder hacer lo que es la validación </br>al momento que se haga la ejecución del programa es decir cuando el usuario seleccione la primera opcion pueda trabajar</br> solo con esa opcion en caso que no sea asi pues sera la otra.
 
 
 ![Primera imagen](image/cuatro.png)
